@@ -14,7 +14,7 @@ function TaskManager() {
   const [tasks, setTasks] = useState([
     {
       _id: 5456,
-      taskName: "jjfrlkf",
+      taskName: "bring milk",
       isDone: false,
     },
   ]);
